@@ -23,7 +23,7 @@ jobs:
             <!---
             start: ${{ steps.date.outputs.today }}T10:55:00.00Z
             end: ${{ steps.date.outputs.today }}T11:15:00.00Z
-            expectedDown: patient-hub-api, patient-hub, greyfinch-application, appointments-api, appointments-widget
+            expectedDown: admin-comms-app-https-admin-demo-greyfinch-com, api, appointments-api, patient-hub-https-hub-demo-greyfinch-com, pms-app-https-app-demo-greyfinch-com
             --->
             ### Daily Maintenance
           pinned: false
