@@ -85,7 +85,7 @@
     "time": 339,
     "timeDay": 353,
     "timeWeek": 373,
-    "timeMonth": 351,
+    "timeMonth": 353,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -94,17 +94,17 @@
     "url": "https://api.demo.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 170,
-    "timeWeek": 228,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 176,
+    "timeDay": 194,
+    "timeWeek": 227,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   }
 ]
