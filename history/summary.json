@@ -94,17 +94,17 @@
     "url": "https://api.demo.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 369,
-    "timeWeek": 238,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 194,
+    "timeDay": 269,
+    "timeWeek": 227,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   }
 ]
