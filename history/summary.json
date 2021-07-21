@@ -4,18 +4,20 @@
     "url": "https://app.demo.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.demo.greyfinch.com",
     "slug": "pms-app-https-app-demo-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 242,
-    "timeWeek": 191,
-    "timeMonth": 226,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 199,
+    "timeWeek": 184,
+    "timeMonth": 223,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   },
   {
     "name": "Admin/Comms App - https://admin.demo.greyfinch.com/",
@@ -76,18 +78,20 @@
     "url": "https://app.demo.greyfinch.com/rest/v1/public/divisions/123456/locations",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 403,
-    "timeWeek": 357,
-    "timeMonth": 349,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 304,
+    "timeWeek": 337,
+    "timeMonth": 344,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   },
   {
     "name": "API",
