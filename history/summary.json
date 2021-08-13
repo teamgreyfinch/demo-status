@@ -25,19 +25,19 @@
     "url": "https://admin.demo.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/admin.demo.greyfinch.com",
     "slug": "admin-comms-app-https-admin-demo-greyfinch-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 384,
-    "timeWeek": 218,
-    "timeMonth": 295,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 281,
+    "timeDay": 395,
+    "timeWeek": 242,
+    "timeMonth": 299,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2021-08-13": 0
+      "2021-08-13": 10
     }
   },
   {
