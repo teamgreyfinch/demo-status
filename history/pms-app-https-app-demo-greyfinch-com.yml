@@ -1,7 +1,7 @@
 url: https://app.demo.greyfinch.com/
-status: up
-code: 200
-responseTime: 694
-lastUpdated: 2021-09-07T10:12:55.698Z
+status: down
+code: 502
+responseTime: 214
+lastUpdated: 2021-09-07T12:58:12.263Z
 startTime: Mon Jun 14 2021 14:21:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
