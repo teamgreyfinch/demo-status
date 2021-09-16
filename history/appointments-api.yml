@@ -1,7 +1,7 @@
 url: https://app.demo.greyfinch.com/rest/v1/public/divisions/123456/locations
-status: up
-code: 200
-responseTime: 893
-lastUpdated: 2021-09-16T03:13:47.205Z
+status: down
+code: 503
+responseTime: 6
+lastUpdated: 2021-09-16T11:00:25.976Z
 startTime: Tue Jun 01 2021 21:39:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
