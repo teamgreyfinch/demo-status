@@ -4,22 +4,20 @@
     "url": "https://app.demo.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.demo.greyfinch.com",
     "slug": "pms-app-https-app-demo-greyfinch-com",
-    "status": "down",
-    "uptime": "99.88%",
+    "status": "up",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 250,
-    "timeDay": 90,
-    "timeWeek": 170,
+    "timeDay": 136,
+    "timeWeek": 173,
     "timeMonth": 225,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2021-09-27": 16,
-      "2021-09-02": 205,
-      "2021-07-29": 7,
-      "2021-07-21": 11
+      "2021-09-02": 205
     }
   },
   {
@@ -81,20 +79,19 @@
     "url": "https://app.demo.greyfinch.com/rest/v1/public/divisions/123456/locations",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 363,
-    "timeDay": 567,
-    "timeWeek": 388,
-    "timeMonth": 358,
-    "timeYear": 363,
+    "time": 365,
+    "timeDay": 704,
+    "timeWeek": 427,
+    "timeMonth": 367,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2021-09-27": 16,
-      "2021-07-21": 11
+      "2021-09-27": 16
     }
   },
   {
@@ -117,8 +114,7 @@
       "2021-09-27": 16,
       "2021-09-03": 742,
       "2021-09-02": 465,
-      "2021-08-17": 16,
-      "2021-07-21": 6
+      "2021-08-17": 16
     }
   }
 ]
