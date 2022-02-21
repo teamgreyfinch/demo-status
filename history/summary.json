@@ -12,7 +12,7 @@
     "uptimeYear": "99.81%",
     "time": 264,
     "timeDay": 142,
-    "timeWeek": 239,
+    "timeWeek": 234,
     "timeMonth": 414,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -29,10 +29,10 @@
     "url": "https://admin.demo.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/admin.demo.greyfinch.com",
     "slug": "admin-comms-app-https-admin-demo-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
@@ -40,7 +40,9 @@
     "timeWeek": 241,
     "timeMonth": 325,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 1
+    }
   },
   {
     "name": "Patient Hub - https://hub.demo.greyfinch.com/",
@@ -65,9 +67,9 @@
     "url": "https://appointments.demo.greyfinch.com/?division=123456",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +78,9 @@
     "timeWeek": 202,
     "timeMonth": 270,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "API",
