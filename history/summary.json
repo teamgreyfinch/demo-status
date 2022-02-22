@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.81%",
     "time": 264,
-    "timeDay": 142,
-    "timeWeek": 234,
-    "timeMonth": 414,
+    "timeDay": 344,
+    "timeWeek": 269,
+    "timeMonth": 417,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-02-06": 38,
@@ -31,18 +31,16 @@
     "slug": "admin-comms-app-https-admin-demo-greyfinch-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 235,
-    "timeWeek": 232,
+    "time": 332,
+    "timeDay": 320,
+    "timeWeek": 279,
     "timeMonth": 320,
-    "timeYear": 331,
-    "dailyMinutesDown": {
-      "2022-02-21": 5
-    }
+    "timeYear": 332,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Patient Hub - https://hub.demo.greyfinch.com/",
@@ -56,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 136,
-    "timeWeek": 205,
-    "timeMonth": 274,
+    "timeDay": 436,
+    "timeWeek": 232,
+    "timeMonth": 284,
     "timeYear": 346,
     "dailyMinutesDown": {}
   },
@@ -69,18 +67,16 @@
     "slug": "appointments-widget",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 135,
-    "timeWeek": 192,
-    "timeMonth": 265,
-    "timeYear": 299,
-    "dailyMinutesDown": {
-      "2022-02-21": 5
-    }
+    "time": 300,
+    "timeDay": 241,
+    "timeWeek": 219,
+    "timeMonth": 273,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -94,9 +90,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.35%",
     "time": 189,
-    "timeDay": 68,
-    "timeWeek": 137,
-    "timeMonth": 330,
+    "timeDay": 104,
+    "timeWeek": 143,
+    "timeMonth": 332,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-02-06": 43,
