@@ -1,7 +1,7 @@
 url: https://api.demo.greyfinch.com/healthz
-status: up
+status: down
 code: 200
-responseTime: 38
-lastUpdated: 2023-09-24T09:54:05.274Z
+responseTime: 348
+lastUpdated: 2023-09-24T09:59:44.380Z
 startTime: 2021-06-14T14:21:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
