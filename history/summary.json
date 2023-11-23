@@ -79,7 +79,7 @@
     "url": "https://api.demo.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.20%",
@@ -87,7 +87,7 @@
     "uptimeYear": "96.15%",
     "time": 232,
     "timeDay": 215,
-    "timeWeek": 199,
+    "timeWeek": 195,
     "timeMonth": 171,
     "timeYear": 236,
     "dailyMinutesDown": {
