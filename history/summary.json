@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 338,
-    "timeDay": 357,
-    "timeWeek": 237,
-    "timeMonth": 400,
+    "timeDay": 288,
+    "timeWeek": 253,
+    "timeMonth": 403,
     "timeYear": 368,
-    "dailyMinutesDown": {
-      "2023-02-12": 133
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin/Comms App - https://admin.demo.greyfinch.com/",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 35,
-    "timeWeek": 16,
-    "timeMonth": 60,
-    "timeYear": 85,
+    "time": 126,
+    "timeDay": 89,
+    "timeWeek": 28,
+    "timeMonth": 62,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 155,
-    "timeWeek": 146,
-    "timeMonth": 215,
+    "time": 230,
+    "timeDay": 169,
+    "timeWeek": 155,
+    "timeMonth": 218,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 134,
-    "timeWeek": 126,
-    "timeMonth": 202,
-    "timeYear": 216,
+    "timeDay": 123,
+    "timeWeek": 131,
+    "timeMonth": 204,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "96.58%",
     "uptimeYear": "96.64%",
     "time": 223,
-    "timeDay": 126,
-    "timeWeek": 99,
-    "timeMonth": 160,
+    "timeDay": 142,
+    "timeWeek": 107,
+    "timeMonth": 162,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-01-22": 649,
@@ -112,8 +110,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 817,
       "2023-03-21": 594,
-      "2023-03-20": 794,
-      "2023-02-12": 172
+      "2023-03-20": 794
     }
   }
 ]
