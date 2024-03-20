@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 250,
-    "timeWeek": 310,
-    "timeMonth": 400,
-    "timeYear": 375,
+    "time": 346,
+    "timeDay": 674,
+    "timeWeek": 373,
+    "timeMonth": 418,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 6,
-    "timeWeek": 21,
+    "timeDay": 12,
+    "timeWeek": 22,
     "timeMonth": 58,
-    "timeYear": 61,
+    "timeYear": 60,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 136,
-    "timeWeek": 147,
-    "timeMonth": 209,
+    "time": 227,
+    "timeDay": 421,
+    "timeWeek": 183,
+    "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -64,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 129,
-    "timeWeek": 169,
-    "timeMonth": 204,
+    "time": 217,
+    "timeDay": 469,
+    "timeWeek": 220,
+    "timeMonth": 218,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "96.66%",
     "time": 222,
-    "timeDay": 67,
-    "timeWeek": 109,
-    "timeMonth": 168,
+    "timeDay": 299,
+    "timeWeek": 128,
+    "timeMonth": 175,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-02-20": 80,
@@ -109,8 +109,7 @@
       "2023-03-26": 573,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 817,
-      "2023-03-21": 594
+      "2023-03-23": 817
     }
   }
 ]
