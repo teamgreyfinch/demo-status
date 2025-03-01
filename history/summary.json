@@ -4,9 +4,9 @@
     "url": "https://app.demo.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.demo.greyfinch.com.ico",
     "slug": "pms-app-https-app-demo-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 454,
     "timeMonth": 379,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "Admin/Comms App - https://admin.demo.greyfinch.com/",
@@ -76,9 +78,9 @@
     "url": "https://api.demo.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.98%",
@@ -88,6 +90,7 @@
     "timeMonth": 171,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2025-03-01": 0,
       "2025-02-14": 73,
       "2024-12-20": 594,
       "2024-12-19": 624,
